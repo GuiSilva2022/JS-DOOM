@@ -1,2 +1,2 @@
 # JS-DOOM
-Repositorio teste, js doom
+Repositorio JS DOOM
