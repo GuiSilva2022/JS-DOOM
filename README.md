@@ -1,3 +1,3 @@
 # Js Doom
 
-Repositorio JS DOOM
+Repositorio para o JS DOOM
